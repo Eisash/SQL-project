@@ -1,2 +1,2 @@
 # SQL-project
- pet_Shelter data 
+ pet_Shelter data for training
